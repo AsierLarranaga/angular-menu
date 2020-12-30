@@ -1,5 +1,5 @@
 # angular-menu-component
-Responsive navigation menu for Angular projects
+Responsive navigation menu for Angular projects.
 
 Component to use in Angular projects to create responsive navigation menus.
 The as_modules folder contains a very simple Typescript class to manage the component's CSS styles by Javascript.
